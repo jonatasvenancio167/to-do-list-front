@@ -13,8 +13,8 @@ Certifique-se de ter o Node.js instalado na sua máquina. Você pode baixar o No
 1. Clone o repositório:
 
 ```bash
-  git clone https://github.com/seu-usuario/seu-repositorio-frontend.git
-  cd seu-repositorio-frontend
+  git clone https://github.com/jonatasvenancio167/to-do-list-front
+  cd to-do-list-front
 ```
 
 2. Instale as dependências:
